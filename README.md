@@ -2,8 +2,8 @@
 
 ## Identitas
 
-Nama: Farid Syahputra
-NIM: 2225250222
+Nama: Farid Syahputra  
+NIM: 2225250222  
 Kelas: 3F
 
 ## Tujuan
